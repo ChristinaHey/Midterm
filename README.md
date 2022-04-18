@@ -1,4 +1,4 @@
-# Midterm Abalone Age predictor
+# Midterm Abalone Age Predictor
 Midterm project
 
 This midtermin project (Mo, 18.04.22 - Fr, 22.04.22) aims to show the learned knowledge from the past four weeks. 
